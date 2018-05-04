@@ -34,10 +34,10 @@
 
 	        }else
 
-	            echo 'Bad login';
+	            echo 'Bad Login';
 
 	    }else
-			echo 'Bad token';
+			echo 'Bad Token';
 	}
 	if($action == "logout" && isset($_SESSION['user'])){
 
