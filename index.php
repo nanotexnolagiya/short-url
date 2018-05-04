@@ -6,7 +6,7 @@ if (strlen($uri) > 0) {
 		header('Location: '.$url);
 		exit();
 	}else{
-		echo 'Ssilka ne dostupna';
+		echo 'Link not found';
 		exit();
 	}
 } ?>
