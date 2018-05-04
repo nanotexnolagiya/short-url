@@ -1,4 +1,4 @@
-
+Db tables structure
 
 ```sql
 
@@ -20,7 +20,7 @@ CREATE TABLE `users` (
 
 ```
 
-
+Create and add .htaccess
 ``` apacheconf
 RewriteEngine On
 RewriteBase /
